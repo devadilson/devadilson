@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devadilson&hide_progress=true)
 
 #
-## Algumas das tecnologias que utilizo no meu dia, para saber visite meu [Linkedin](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)  🔗
+## Algumas das tecnologias que utilizo no meu dia, para saber mais visite meu [Linkedin](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)  🔗
 
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)
