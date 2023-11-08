@@ -1,10 +1,11 @@
 
 ### Olá, eu sou o Adilson 🤚
-#
+
 ### Atualmente estou escrevendo código na startup [@Pulpa](https://pulpa.com.br/) 🧑‍💻
-##
-### Algumas das tecnologias que utilizo no meu dia 
+
 #
+### Algumas das tecnologias que utilizo no meu dia ou que detenho conhecimento, para saber visite meu [Linkedin](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)  🔗
+
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)
 [![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)
