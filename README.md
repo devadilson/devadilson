@@ -3,8 +3,12 @@
 
 ### Atualmente estou escrevendo código na startup [@Pulpa](https://pulpa.com.br/) 🧑‍💻
 
+
 #
-### Algumas das tecnologias que utilizo no meu dia ou que detenho conhecimento, para saber visite meu [Linkedin](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)  🔗
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devadilson&hide_progress=true)
+
+#
+### Algumas das tecnologias que utilizo no meu dia, para saber visite meu [Linkedin](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)  🔗
 
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)
@@ -17,5 +21,3 @@
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)
 [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devadilson&hide_progress=true)
