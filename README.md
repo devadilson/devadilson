@@ -1,7 +1,7 @@
 
 ### Olá, eu sou o Adilson 🤚
 
-### Atualmente estou escrevendo código na startup [@Pulpa](https://pulpa.com.br/) 🧑‍💻
+### Atualmente estou escrevendo código na [@PicPay](https://picpay.pulpa.com.br/) 🧑‍💻
 
 
 #
