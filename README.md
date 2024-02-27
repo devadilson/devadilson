@@ -21,4 +21,5 @@
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)
 [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)
+[![JAVA](https://img.shields.io/badge/JAVA-FF0000?style=for-the-badge&logo=java&logoColor=white)](https://www.linkedin.com/in/adilson-cardoso-barbosa-bb039234/)
 
